@@ -11,7 +11,7 @@ added discord button to got to process modify discord, OLDER VERSION of this 1.4
 
 fixed window
 # How to run
-unzip.
+install 7zip.
 
 make sure you have visual studio or msbuild.
 
