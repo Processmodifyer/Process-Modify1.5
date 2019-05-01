@@ -1,22 +1,18 @@
-# Process-Modify1.5
-process modify to modify n64 roms in mupen64 and programs
-# updates:
-1.5:
+**Process Modify**
+<br>
+Process Modify is an application that allows convenient editing of a selected process's RAM.  You can observe the effects on a process as you change its variables gradually.
+<br><br>
+Its main use for me was learning about the inner workings of N64 ROMs, but it could be useful for other things.
 
-added glitch havester with no function
+Some Videos and Screenshots:<br>
+Video (2:45)<br>
+[![ScreenShot](http://img.youtube.com/vi/SKN5lbidbXc/0.jpg)](https://www.youtube.com/watch?v=SKN5lbidbXc)
 
-added anticrash button to hex editor to avoid crashes.
+Video (3:01)<br>
+[![ScreenShot](http://img.youtube.com/vi/AclNAJOJo1o/0.jpg)](https://www.youtube.com/watch?v=AclNAJOJo1o)
 
-added discord button to got to process modify discord, OLDER VERSION of this 1.4.
+![Alt text](SCREENSHOTS/pm0.png?raw=true "Screenshot 1")<br>
 
-fixed window
-# How to run
-install 7zip.
+![Alt text](SCREENSHOTS/pm2.png?raw=true "Screenshot 2")<br>
 
-make sure you have visual studio or msbuild.
-
-in visual studio click build and fun
-
-in msbuild copy these agruments
-cd \Windows\Microsoft.NET\Framework\v4*
-msbuild "C:\Users\<USER>\Downloads\process-modify-master\process-modify-master\ProcessModify.sln" /t:Rebuild /p:Configuration=Release /p:Platform="Any CPU"
+![Alt text](SCREENSHOTS/pm3.png?raw=true "Screenshot 3")

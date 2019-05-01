@@ -1,0 +1,14 @@
+C:\Users\gamersfamilia\Downloads\process-modify-master\process-modify-master\ProcessModify\bin\Release\ProcessModify.exe.config
+C:\Users\gamersfamilia\Downloads\process-modify-master\process-modify-master\ProcessModify\bin\Release\ProcessModify.exe
+C:\Users\gamersfamilia\Downloads\process-modify-master\process-modify-master\ProcessModify\bin\Release\ProcessModify.pdb
+C:\Users\gamersfamilia\Downloads\process-modify-master\process-modify-master\ProcessModify\obj\Release\ProcessModify.csprojAssemblyReference.cache
+C:\Users\gamersfamilia\Downloads\process-modify-master\process-modify-master\ProcessModify\obj\Release\ProcessModify.AttachForm.resources
+C:\Users\gamersfamilia\Downloads\process-modify-master\process-modify-master\ProcessModify\obj\Release\ProcessModify.MainForm.resources
+C:\Users\gamersfamilia\Downloads\process-modify-master\process-modify-master\ProcessModify\obj\Release\ProcessModify.HexEditForm.resources
+C:\Users\gamersfamilia\Downloads\process-modify-master\process-modify-master\ProcessModify\obj\Release\ProcessModify.HexRow.resources
+C:\Users\gamersfamilia\Downloads\process-modify-master\process-modify-master\ProcessModify\obj\Release\ProcessModify.ModAddressControl.resources
+C:\Users\gamersfamilia\Downloads\process-modify-master\process-modify-master\ProcessModify\obj\Release\ProcessModify.Properties.Resources.resources
+C:\Users\gamersfamilia\Downloads\process-modify-master\process-modify-master\ProcessModify\obj\Release\ProcessModify.csproj.GenerateResource.cache
+C:\Users\gamersfamilia\Downloads\process-modify-master\process-modify-master\ProcessModify\obj\Release\ProcessModify.csproj.CoreCompileInputs.cache
+C:\Users\gamersfamilia\Downloads\process-modify-master\process-modify-master\ProcessModify\obj\Release\ProcessModify.exe
+C:\Users\gamersfamilia\Downloads\process-modify-master\process-modify-master\ProcessModify\obj\Release\ProcessModify.pdb
