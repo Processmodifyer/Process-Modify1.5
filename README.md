@@ -23,3 +23,14 @@ Am update
 
 can used to corrupt n64 roms NOT NDS
 <br><br>
+fixed window
+# How to run
+install 7zip.
+
+make sure you have visual studio or msbuild.
+
+in visual studio click build and fun
+
+in msbuild copy these agruments
+cd \Windows\Microsoft.NET\Framework\v4*
+msbuild "C:\Users\<USER>\Downloads\process-modify-master\process-modify-master\ProcessModify.sln" /t:Rebuild /p:Configuration=Release /p:Platform="Any CPU"
