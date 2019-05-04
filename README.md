@@ -18,5 +18,8 @@ Video (3:01)<br>
 ![Alt text](SCREENSHOTS/pm3.png?raw=true "Screenshot 3")
 <br>
 Thanks for rankinbc and Processmodifyer
+
 Am update
+
+can used to corrupt n64 roms NOT NDS
 <br><br>
