@@ -27,9 +27,11 @@ fixed window
 # How to run
 install 7zip.
 
-make sure you have visual studio or msbuild.
+Make sure you have visual studio or msbuild.
 
-in visual studio click build and fun
+always Make sure.
+
+in visual studio click build and run
 
 in msbuild copy these agruments
 cd \Windows\Microsoft.NET\Framework\v4*
