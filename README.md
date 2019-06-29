@@ -29,7 +29,7 @@ install 7zip.
 
 Make sure you have visual studio or msbuild.
 
-always Make sure.
+Always make sure.
 
 in visual studio click build and run
 
