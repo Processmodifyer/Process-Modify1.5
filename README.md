@@ -27,9 +27,7 @@ fixed window
 # How to run
 install 7zip.
 
-Make sure you have visual studio or msbuild.
-
-Always make sure.
+so, ensure you have visual studio or msbuild.
 
 in visual studio click build and run
 
