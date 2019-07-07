@@ -1,6 +1,8 @@
 **Process Modify**
 <br>
-Process Modify is an application that allows convenient editing of a selected process's RAM.  You can observe the effects on a process as you change its variables gradually.
+Process Modify is an application that allows convenient editing of a selected process's RAM.  You can observe the effects on a
+this is edited version of process modify
+process as you change its variables gradually.
 <br><br>
 Its main use for me was learning about the inner workings of N64 ROMs, but it could be useful for other things.
 
@@ -17,7 +19,6 @@ Video (3:01)<br>
 
 ![Alt text](SCREENSHOTS/pm3.png?raw=true "Screenshot 3")
 <br>
-Thanks for rankinbc and Processmodifyer
 
 Am update
 
@@ -33,4 +34,6 @@ in visual studio click build and run
 
 in msbuild copy these agruments
 cd \Windows\Microsoft.NET\Framework\v4*
-msbuild "C:\Users\<USER>\Downloads\process-modify-master\process-modify-master\ProcessModify.sln" /t:Rebuild /p:Configuration=Release /p:Platform="Any CPU"
+msbuild "C:\Users\<USER>\Downloads\process-modify-master\process-modify-master\ProcessModify.sln" /t:Rebuild /p:Configuration=Release /p:Platform="Any CPU".
+
+Pull requests to help me develop.
