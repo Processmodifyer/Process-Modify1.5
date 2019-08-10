@@ -12,7 +12,7 @@ ScreenShots
 ![Alt text](SCREENSHOTS/pm2.png?raw=true "Screenshot 2")<br>
 
 ![Alt text](SCREENSHOTS/pm3.png?raw=true "Screenshot 3")
-![Alt text](SCREENSHOTS/pm3.png?raw=true "Super Corrupting X95486")
+![Alt text](SCREENSHOTS/SuperCorruptingX5937X.PNG?raw=true "Super Corrupting X95486")
 
 <br>
 
