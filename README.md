@@ -12,7 +12,7 @@ ScreenShots
 ![Alt text](SCREENSHOTS/pm2.png?raw=true "Screenshot 2")<br>
 
 ![Alt text](SCREENSHOTS/pm3.png?raw=true "Screenshot 3")
-Super Corruptions are very rare to appear, expect crashes or other plobems
+Super Corruptions are very rare to appear, expect crashes or other plobems, Shader 9538, 5406, 135, 291,19 is randomized
 ![Alt text](SCREENSHOTS/SuperCorruptingX5937X.PNG?raw=true "Super Corrupting X95486")
 
 <br>
