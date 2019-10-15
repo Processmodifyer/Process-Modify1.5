@@ -1,10 +1,15 @@
+**This Project is abandoned due addion of RTC's process stub **
+
 **Process Modify**
 <br>
 Process Modify is an application that allows convenient editing of a selected process's RAM.  You can observe the effects on a
 process as you change its variables gradually.
+
 this is edited version of process modify
+
 <br><br>
 Its main use for me was learning about the inner workings of N64 ROMs, but it could be useful for other things.
+
 ScreenShots
 
 ![Alt text](SCREENSHOTS/pm0.png?raw=true "Screenshot 1")<br>
@@ -34,3 +39,7 @@ cd \Windows\Microsoft.NET\Framework\v4*
 msbuild "C:\Users\<USER>\Downloads\process-modify-master\process-modify-master\ProcessModify.sln" /t:Rebuild /p:Configuration=Release /p:Platform="Any CPU".
 
 Pull requests to help me develop.
+
+This program is abandoned for 50 weeks ago
+
+install rtc's file stub
