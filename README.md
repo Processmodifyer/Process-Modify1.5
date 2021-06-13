@@ -40,6 +40,9 @@ msbuild "C:\Users\<USER>\Downloads\process-modify-master\process-modify-master\P
 
 Pull requests to help me develop.
 
-This program is abandoned for 50 weeks ago
+This program is alternative of process stub
 
-install rtc's file stub
+install rtc's process stub if you want more features
+
+don't worry, this project still alive for 2 years
+
